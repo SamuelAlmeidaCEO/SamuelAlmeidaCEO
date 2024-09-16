@@ -1,13 +1,12 @@
 <h1 align="center">Hello, I am Samuel Almeida</h1>
-<h3 align="center">CEO & Founder of Bravion and a Senior Software Engineer based in Brazil</h3>
+<h3 align="center">CEO & Founder of Bravion - Senior Software Engineer based in Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osamuelalmeida&label=Profile%20views&color=0e75b6&style=flat" alt="osamuelalmeida" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelAlmeidaCEO&label=Profile%20views&color=0e75b6&style=flat" alt="SamuelAlmeidaCEO" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/osamuelalmeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osamuelalmeida" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/osamuelalmeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamuelalmeida" height="30" width="40" /></a>
-<a href="https://instagram.com/osamuel_almeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osamuel_almeida" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samuelalmeidaceo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SamuelAlmeidaCEO" height="30" width="40" /></a>
+<a href="https://instagram.com/samuelalmeidaceo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SamuelAlmeidaCEO" height="30" width="40" /></a>
 <a href="https://www.behance.net/osamuelhalmeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="osamuelhalmeida" height="30" width="40" /></a>
 <a href="https://medium.com/@samuelhalmeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samuelhalmeida" height="30" width="40" /></a>
 </p>
