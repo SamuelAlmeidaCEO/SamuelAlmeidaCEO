@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Samuel Almeida</h1>
-<h3 align="center">CEO & Founder of Bravion - Senior Software Engineer based in Brazil</h3>
+<h3 align="center">CEO & Founder of bravion.ai - Senior Software Engineer based in Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelAlmeidaCEO&label=Profile%20views&color=0e75b6&style=flat" alt="SamuelAlmeidaCEO" /> </p>
 
